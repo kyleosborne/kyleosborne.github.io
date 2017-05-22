@@ -69,11 +69,6 @@ h2 {
   padding-bottom: 20px;
 }
 
-figure {
-  border: #555555 solid 5px;
-  border-radius: 10px;
-}
-
 .grow { 
   transition: all .2s ease-in-out; 
 }
