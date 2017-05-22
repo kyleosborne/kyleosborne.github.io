@@ -1,0 +1,82 @@
+body {
+  background: #333333;
+  color:white;
+  font-family: 'Roboto', sans-serif;
+}
+
+main {
+  max-width: 800px;
+  margin: auto;
+  padding-top padding-bottom: 0px;
+  padding-left padding right: 20px;
+}
+
+a {
+  color: #bfbfbf;
+}
+
+.propic {
+  height: 350px;
+  width: 350px;
+  border: 1px solid black;
+  border-radius: 300px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.landing {
+  max-width:100%;
+  padding-top: 75px;
+}
+
+.about {
+  padding-top:25px;
+  font-size: 20px;
+  line-height:2;
+}
+
+.arrow-down {
+  width: 0; 
+  height: 0; 
+  border-left: 150px solid transparent;
+  border-right: 150px solid transparent;
+  border-top: 50px solid #ffffff;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+#portfolio {
+  padding-top: 15px;
+}
+
+.thumbnail {
+  width: 300px;
+  height 300px;
+}
+
+figure {
+  width: 300px;
+  background: #222222;
+}
+figcaption {
+  padding-top:10px;
+  text-align: center;
+}
+
+h2 {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+figure {
+  border: #555555 solid 5px;
+  border-radius: 10px;
+}
+
+.grow { 
+  transition: all .2s ease-in-out; 
+}
+.grow:hover { 
+  transform: scale(1.1); 
+}
