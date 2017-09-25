@@ -16,8 +16,12 @@ main {
   padding-left padding right: 20px;
 }
 
-a {
-  color: #bfbfbf;
+.medium {
+  color: #7dd183;
+}
+
+.linkedin {
+  color: #42599b;
 }
 
 .propic {
