@@ -1,4 +1,4 @@
-$(document).ready(function(){$(".landing").hide().fadeIn(1000);});
+$(document).ready(function(){$(".landing").hide().fadeIn(2000);});
 $("#arrow").click(function() {
     $('html, body').animate({
         scrollTop: $("#portfolio").offset().top
